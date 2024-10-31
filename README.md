@@ -12,8 +12,8 @@ Hello! I'm Sakhile Ndlazi, a software engineering student and aspiring developer
 ## Contact Me
 
 I would love to hear from you! Feel free to reach out through any of the following platforms:
-- Email: [Email](mailto:sakhileindah@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sakhilendlazi)
-- GitHub: [GitHub Profile](https://github.com/ysakhileln)
+- [Email](mailto:sakhileindah@gmail.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/sakhilendlazi)
+- [GitHub Profile](https://github.com/ysakhileln)
 
 Thank you for visiting my portfolio! Feel free to connect!
