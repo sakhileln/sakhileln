@@ -1,7 +1,7 @@
-# Welcome to My Portfolio!
+# 🚀 Welcome to My Portfolio!
 Hello! I'm Sakhile Ndlazi, a software engineering student and aspiring developer.
 
-## About Me
+## ✨ About Me
  A pilot transitioning into the tech field. I am passionate about technology. I am excited to explore the possibilities technology offers and how I can contribute to this dynamic field.
 
 
