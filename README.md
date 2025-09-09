@@ -28,6 +28,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhileln&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" />
 </p>
 
+<p align="center">
+  🛡️ <b>Self-healing commits:</b> enabled via <code>.pre-commit-config.yaml</code>
+</p>
+
 <h2 align="center">🏆 trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sakhileln&theme=radical&no-frame=true&row=1&column=7" />
@@ -36,7 +40,7 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🚀 Mission uploaded: _loading..._  
+🚀 Mission uploaded: _loading..._
 <!-- CHALLENGE:END -->
 </p>
 
@@ -44,9 +48,6 @@
   <img src="https://img.shields.io/github/followers/sakhileln?style=flat&color=00F0FF" />
   <img src="https://img.shields.io/github/stars/sakhileln?style=flat&color=FF0080" />
 </p>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakhileln&label=visitors&color=00F0FF&style=flat" alt="visit count"/>
 </p>
-
