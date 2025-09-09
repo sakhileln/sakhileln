@@ -1,29 +1,51 @@
-# 🚀 Welcome to My Portfolio!
-Hello! I'm Sakhile Ndlazi, a software engineering student and aspiring developer.
-
-## ✨ About Me
- A pilot transitioning into the tech field. I am passionate about technology. I am excited to explore the possibilities technology offers and how I can contribute to this dynamic field.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakhile-ndlazi) 
-
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakhileln&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sakhileln&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhileln&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sakhileln&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sakhileln&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+<!-- Neon Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=HELLO%2C+I'M+SAKHILE.;PILOT+%E2%9C%88%EF%B8%8F+TURNED+SOFTWARE+ENGINEER.;BUILDING+THE+FUTURE+WITH+CODE.">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sakhileln&icon=2&color=6)](https://visitcount.itsvg.in)
+
+<h2 align="center">🛠 tech arsenal</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,python,fastapi,flask,sqlite,html,css,git,github,gitlab,bitbucket,githubactions,postman,figma,vscode,bash,pycharm,vim,neovim,pytorch,java,maven,eclipse,idea,spring,postgres,mysql,mongodb,go,docker,rabbitmq,kafka,redis,stackoverflow,linux,md,sublime,discord,obsidian,notion,atom,androidstudio,gmail,linkedin,windows" />
+</p>
+
+<h2 align="center">⚡ now</h2>
+
+<p align="center">
+<!-- AUTO:START -->
+🌱 Learning: Docker, Tiltfile, Kubernetes, Go, gRPC, RabbitMQ, PostgreSQL<br/>
+🎵 Listening: ...<br/>
+<!-- AUTO:END -->
+</p>
+
+<h2 align="center">📊 system status</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakhileln&show_icons=true&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhileln&theme=one_dark_pro&hide_border=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhileln&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" />
+
+</p>
+
+<h2 align="center">🏆 trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakhileln&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+<h2 align="center">🎯 daily coding challenge</h2>
+<p align="center">
+<!-- CHALLENGE:START -->
+🚀 Mission uploaded: _loading..._  
+<!-- CHALLENGE:END -->
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/sakhileln?style=flat&color=00F0FF" />
+  <img src="https://img.shields.io/github/stars/sakhileln?style=flat&color=FF0080" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakhileln&label=visitors&color=00F0FF&style=flat" alt="visit count"/>
+</p>
+
