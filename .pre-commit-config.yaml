@@ -1,3 +1,17 @@
+# To use:
+#
+#     pre-commit run -a
+#
+# Or:
+#
+#     pre-commit install  # (runs every time you commit in git)
+#
+# To update this file:
+#
+#     pre-commit autoupdate
+#
+# See https://github.com/pre-commit/pre-commit
+
 repos:
   # Basic formatting / hygiene
   - repo: https://github.com/pre-commit/pre-commit-hooks
