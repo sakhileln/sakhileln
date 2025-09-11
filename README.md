@@ -40,9 +40,14 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🚀 Mission uploaded: _Solve “Troll Hunt” [2.7 pts] on Kattis_
-[Go solve it →](https://open.kattis.com/problems/trollhunt)
+🤖 Mission uploaded: _Solve "Hello World!" [1.0 pts] on Kattis_
 <!-- CHALLENGE:END -->
+</p>
+<p align="center">
+<!-- CHALLENGE_LINK:START -->
+[Go solve it →](https://open.kattis.com/problems/hello)
+<!-- CHALLENGE_LINK:END -->
+
 </p>
 
 <p align="center">
