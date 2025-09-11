@@ -1,7 +1,6 @@
 # flake8: noqa
 
 #!/usr/bin/env python3
-from autokattis import OpenKattis
 import pathlib
 import random
 
@@ -11,11 +10,32 @@ END = "<!-- CHALLENGE:END -->"
 
 
 def pick_kattis_problem():
-    kt = OpenKattis("anonymous_username")  # Only needs problem suggestions
-    suggested = kt.suggest()
-    beginner = [p for p in suggested if 1.0 <= float(p["difficulty"]) <= 3.0]
-    prob = random.choice(beginner) if beginner else random.choice(suggested)
-    return prob["problem_id"], prob["title"], prob["difficulty"]
+    # Predefined list of beginner-friendly Kattis problems
+    # Format: (problem_id, title, difficulty)
+    beginner_problems = [
+        ("hello", "Hello World!", "1.0"),
+        ("carrots", "Carrots", "1.3"),
+        ("potato", "Potato", "1.5"),
+        ("2048", "2048", "1.7"),
+        ("different", "A Different Problem", "1.8"),
+        ("spavanac", "Spavanac", "2.0"),
+        ("tri", "Triangle", "2.1"),
+        ("rijeci", "Rijeci", "2.2"),
+        ("kornislav", "Kornislav", "2.3"),
+        ("pretpostavke", "Pretpostavke", "2.4"),
+        ("abcd", "ABCD", "2.5"),
+        ("karte", "Karte", "2.6"),
+        ("trollhunt", "Troll Hunt", "2.7"),
+        ("babylonian", "Babylonian Numbers", "2.8"),
+        ("prva", "First", "2.9"),
+        ("autori", "Autori", "3.0"),
+        ("budilnik", "Budilnik", "3.1"),
+        ("kockice", "Kockice", "3.2"),
+        ("laptop", "Laptop", "3.3"),
+        ("mali", "Mali", "3.4"),
+    ]
+
+    return random.choice(beginner_problems)
 
 
 def update_readme():
