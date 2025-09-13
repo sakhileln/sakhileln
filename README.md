@@ -12,7 +12,7 @@
 
 <p align="center">
 <!-- AUTO:START -->
-🌱 Learning: Docker, Tiltfile, Kubernetes, Go, gRPC, RabbitMQ, PostgreSQL<br/>
+🌱 Learning: Docker, Tilt, Kubernetes, Go, gRPC, RabbitMQ, PostgreSQL, GCP<br/>
 🎵 Listening: ...<br/>
 <!-- AUTO:END -->
 </p>
