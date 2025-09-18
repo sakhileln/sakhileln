@@ -19,13 +19,13 @@
 
 <h2 align="center">📊 system status</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakhileln&show_icons=true&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" height="160" />
+  <img src="https://github-readme-stats-one-puce-59.vercel.app/api?username=sakhileln&show_icons=true&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" height="160" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhileln&theme=one_dark_pro&hide_border=false" height="200" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhileln&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" />
+  <img src="https://github-readme-stats-one-puce-59.vercel.app/api/top-langs/?username=sakhileln&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" />
 </p>
 
 <p align="center">
