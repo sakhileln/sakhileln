@@ -40,12 +40,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Pretpostavke" [2.4 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Valid Parentheses" [Easy] - Stack on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/pretpostavke)
+[Go solve it →](https://leetcode.com/problems/valid-parentheses/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
