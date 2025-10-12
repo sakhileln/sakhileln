@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Laptop" [3.3 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Troll Hunt" [2.7 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/laptop)
+[Go solve it →](https://open.kattis.com/problems/trollhunt)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
