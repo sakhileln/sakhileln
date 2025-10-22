@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Babylonian Numbers" [2.8 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Find the Index of the First Occurrence in a String" [Easy] - Strings on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/babylonian)
+[Go solve it →](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
