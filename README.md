@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Climbing Stairs" [Easy] - Dynamic Programming on LeetCode_
+🤖 Mission uploaded: _Solve "Binary Search" [Easy] - Binary Search on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/climbing-stairs/)
+[Go solve it →](https://leetcode.com/problems/binary-search/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
