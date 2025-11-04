@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Autori" [3.0 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Binary Tree Inorder Traversal" [Easy] - Trees on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/autori)
+[Go solve it →](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
