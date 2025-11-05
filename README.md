@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Binary Tree Inorder Traversal" [Easy] - Trees on LeetCode_
+🤖 Mission uploaded: _Solve "Minimum Window Substring" [Hard] - Sliding Window on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+[Go solve it →](https://leetcode.com/problems/minimum-window-substring/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
