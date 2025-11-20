@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Kth Largest Element in an Array" [Medium] - Arrays on LeetCode_
+🤖 Mission uploaded: _Solve "Majority Element" [Easy] - Arrays on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+[Go solve it →](https://leetcode.com/problems/majority-element/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
