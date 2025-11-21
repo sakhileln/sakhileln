@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Majority Element" [Easy] - Arrays on LeetCode_
+🤖 Mission uploaded: _Solve "Longest Repeating Character Replacement" [Medium] - Sliding Window on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/majority-element/)
+[Go solve it →](https://leetcode.com/problems/longest-repeating-character-replacement/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
