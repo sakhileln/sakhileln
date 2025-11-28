@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Maximum Depth of Binary Tree" [Easy] - Trees on LeetCode_
+🤖 Mission uploaded: _Solve "Subsets" [Medium] - Backtracking on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+[Go solve it →](https://leetcode.com/problems/subsets/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
