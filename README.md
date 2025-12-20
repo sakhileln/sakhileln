@@ -41,8 +41,8 @@
 
 <h2 align="center">🏆 trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakhileln&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sakhileln&theme=radical&no-frame=true&row=1&column=7" />
+  </p>
 
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
