@@ -52,7 +52,9 @@
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/potato)
+<a href="https://open.kattis.com/problems/potato" target="_blank" rel="noopener noreferrer">
+  Go solve it →
+</a>
 <!-- CHALLENGE_LINK:END -->
 
 </p>
