@@ -47,14 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Potato" [1.5 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Rijeci" [2.2 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-<a href="https://open.kattis.com/problems/potato" target="_blank" rel="noopener noreferrer">
-  Go solve it →
-</a>
+[Go solve it →](https://open.kattis.com/problems/rijeci)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
