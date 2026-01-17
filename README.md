@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Pretpostavke" [2.4 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Kth Largest Element in an Array" [Medium] - Arrays on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/pretpostavke)
+[Go solve it →](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
