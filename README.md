@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Linked List Cycle" [Easy] - Linked Lists on LeetCode_
+🤖 Mission uploaded: _Solve "Pretpostavke" [2.4 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/linked-list-cycle/)
+[Go solve it →](https://open.kattis.com/problems/pretpostavke)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
