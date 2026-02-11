@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "First" [2.9 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Invert Binary Tree" [Easy] - Trees on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/prva)
+[Go solve it →](https://leetcode.com/problems/invert-binary-tree/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
