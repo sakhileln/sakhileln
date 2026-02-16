@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Decode String" [Medium] - Stack on LeetCode_
+🤖 Mission uploaded: _Solve "Product of Array Except Self" [Medium] - Arrays on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/decode-string/)
+[Go solve it →](https://leetcode.com/problems/product-of-array-except-self/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
