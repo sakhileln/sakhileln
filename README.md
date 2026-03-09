@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Longest Increasing Subsequence" [Medium] - Dynamic Programming on LeetCode_
+🤖 Mission uploaded: _Solve "Sort Colors" [Medium] - Arrays on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/longest-increasing-subsequence/)
+[Go solve it →](https://leetcode.com/problems/sort-colors/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
