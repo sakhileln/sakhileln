@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Two Sum II - Input Array Is Sorted" [Medium] - Arrays on LeetCode_
+🤖 Mission uploaded: _Solve "A Different Problem" [1.8 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted/)
+[Go solve it →](https://open.kattis.com/problems/different)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
