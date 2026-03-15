@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "A Different Problem" [1.8 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Word Break" [Medium] - Dynamic Programming on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/different)
+[Go solve it →](https://leetcode.com/problems/word-break/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
