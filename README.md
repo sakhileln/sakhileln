@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Carrots" [1.3 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Hello World!" [1.0 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/carrots)
+[Go solve it →](https://open.kattis.com/problems/hello)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
