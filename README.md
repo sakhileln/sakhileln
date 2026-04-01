@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Kockice" [3.2 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Daily Temperatures" [Medium] - Stack on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/kockice)
+[Go solve it →](https://leetcode.com/problems/daily-temperatures/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
