@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Merge k Sorted Lists" [Hard] - Linked Lists on LeetCode_
+🤖 Mission uploaded: _Solve "Valid Palindrome" [Easy] - Strings on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/merge-k-sorted-lists/)
+[Go solve it →](https://leetcode.com/problems/valid-palindrome/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
