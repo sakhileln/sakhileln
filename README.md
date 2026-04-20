@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Palindrome Linked List" [Easy] - Linked Lists on LeetCode_
+🤖 Mission uploaded: _Solve "Triangle" [2.1 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/palindrome-linked-list/)
+[Go solve it →](https://open.kattis.com/problems/tri)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
