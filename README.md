@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Convert BST to Greater Tree" [Medium] - Trees on LeetCode_
+🤖 Mission uploaded: _Solve "Construct Binary Tree from Preorder and Inorder Traversal" [Medium] - Trees on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+[Go solve it →](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
