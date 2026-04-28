@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "ABCD" [2.5 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Karte" [2.6 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/abcd)
+[Go solve it →](https://open.kattis.com/problems/karte)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
