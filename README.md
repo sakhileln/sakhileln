@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Karte" [2.6 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Trapping Rain Water" [Hard] - Arrays on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/karte)
+[Go solve it →](https://leetcode.com/problems/trapping-rain-water/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
