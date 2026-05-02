@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Binary Tree Level Order Traversal" [Medium] - Trees on LeetCode_
+🤖 Mission uploaded: _Solve "Flatten Binary Tree to Linked List" [Medium] - Trees on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+[Go solve it →](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
