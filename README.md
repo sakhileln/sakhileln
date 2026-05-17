@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Mali" [3.4 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Kornislav" [2.3 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/mali)
+[Go solve it →](https://open.kattis.com/problems/kornislav)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
