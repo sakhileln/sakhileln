@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Contains Duplicate" [Easy] - Arrays on LeetCode_
+🤖 Mission uploaded: _Solve "Potato" [1.5 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/contains-duplicate/)
+[Go solve it →](https://open.kattis.com/problems/potato)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
