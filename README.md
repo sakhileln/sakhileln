@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Squares of a Sorted Array" [Easy] - Arrays on LeetCode_
+🤖 Mission uploaded: _Solve "Hamming Distance" [Easy] - Bit Manipulation on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/squares-of-a-sorted-array/)
+[Go solve it →](https://leetcode.com/problems/hamming-distance/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
