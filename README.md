@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Hamming Distance" [Easy] - Bit Manipulation on LeetCode_
+🤖 Mission uploaded: _Solve "Laptop" [3.3 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/hamming-distance/)
+[Go solve it →](https://open.kattis.com/problems/laptop)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
