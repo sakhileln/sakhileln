@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Binary Tree Maximum Path Sum" [Hard] - Trees on LeetCode_
+🤖 Mission uploaded: _Solve "Jump Game" [Medium] - Dynamic Programming on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+[Go solve it →](https://leetcode.com/problems/jump-game/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
