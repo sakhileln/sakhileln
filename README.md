@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Budilnik" [3.1 pts] on Kattis_
+🤖 Mission uploaded: _Solve "Valid Parentheses" [Easy] - Stack on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://open.kattis.com/problems/budilnik)
+[Go solve it →](https://leetcode.com/problems/valid-parentheses/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
