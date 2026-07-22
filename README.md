@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Longest Continuous Increasing Subsequence" [Easy] - Arrays on LeetCode_
+🤖 Mission uploaded: _Solve "Number of Islands" [Medium] - DFS/BFS on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+[Go solve it →](https://leetcode.com/problems/number-of-islands/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
