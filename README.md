@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Regular Expression Matching" [Hard] - Dynamic Programming on LeetCode_
+🤖 Mission uploaded: _Solve "Backspace String Compare" [Easy] - Stack on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/regular-expression-matching/)
+[Go solve it →](https://leetcode.com/problems/backspace-string-compare/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
