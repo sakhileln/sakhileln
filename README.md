@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Backspace String Compare" [Easy] - Stack on LeetCode_
+🤖 Mission uploaded: _Solve "Maximum Product Subarray" [Medium] - Dynamic Programming on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/backspace-string-compare/)
+[Go solve it →](https://leetcode.com/problems/maximum-product-subarray/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
