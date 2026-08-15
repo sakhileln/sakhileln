@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Subarray Sum Equals K" [Medium] - Hash Tables on LeetCode_
+🤖 Mission uploaded: _Solve "Serialize and Deserialize Binary Tree" [Hard] - Trees on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/subarray-sum-equals-k/)
+[Go solve it →](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
