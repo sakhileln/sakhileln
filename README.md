@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Merge Sorted Array" [Easy] - Arrays on LeetCode_
+🤖 Mission uploaded: _Solve "Daily Temperatures" [Medium] - Stack on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/merge-sorted-array/)
+[Go solve it →](https://leetcode.com/problems/daily-temperatures/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
