@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Daily Temperatures" [Medium] - Stack on LeetCode_
+🤖 Mission uploaded: _Solve "Babylonian Numbers" [2.8 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/daily-temperatures/)
+[Go solve it →](https://open.kattis.com/problems/babylonian)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
