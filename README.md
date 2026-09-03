@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Subsets" [Medium] - Backtracking on LeetCode_
+🤖 Mission uploaded: _Solve "Convert BST to Greater Tree" [Medium] - Trees on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/subsets/)
+[Go solve it →](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
