@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Remove Duplicates from Sorted Array" [Easy] - Arrays on LeetCode_
+🤖 Mission uploaded: _Solve "Spavanac" [2.0 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+[Go solve it →](https://open.kattis.com/problems/spavanac)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
