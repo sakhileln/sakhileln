@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "House Robber III" [Medium] - Trees on LeetCode_
+🤖 Mission uploaded: _Solve "Container With Most Water" [Medium] - Arrays on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/house-robber-iii/)
+[Go solve it →](https://leetcode.com/problems/container-with-most-water/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
