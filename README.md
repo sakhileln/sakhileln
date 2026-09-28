@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Jewels and Stones" [Easy] - Hash Tables on LeetCode_
+🤖 Mission uploaded: _Solve "ABCD" [2.5 pts] on Kattis_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/jewels-and-stones/)
+[Go solve it →](https://open.kattis.com/problems/abcd)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
