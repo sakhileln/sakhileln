@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Generate Parentheses" [Medium] - Backtracking on LeetCode_
+🤖 Mission uploaded: _Solve "Decode Ways" [Medium] - Dynamic Programming on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/generate-parentheses/)
+[Go solve it →](https://leetcode.com/problems/decode-ways/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
