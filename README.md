@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Longest Substring Without Repeating Characters" [Medium] - Strings on LeetCode_
+🤖 Mission uploaded: _Solve "Intersection of Two Linked Lists" [Easy] - Linked Lists on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+[Go solve it →](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
