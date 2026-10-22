@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Unique Paths" [Medium] - Dynamic Programming on LeetCode_
+🤖 Mission uploaded: _Solve "Reverse Integer" [Medium] - Math on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/unique-paths/)
+[Go solve it →](https://leetcode.com/problems/reverse-integer/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
