@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Reverse Integer" [Medium] - Math on LeetCode_
+🤖 Mission uploaded: _Solve "Decode String" [Medium] - Stack on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/reverse-integer/)
+[Go solve it →](https://leetcode.com/problems/decode-string/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
