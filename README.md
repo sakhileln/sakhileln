@@ -47,12 +47,12 @@
 <h2 align="center">🎯 daily coding challenge</h2>
 <p align="center">
 <!-- CHALLENGE:START -->
-🤖 Mission uploaded: _Solve "Find the Index of the First Occurrence in a String" [Easy] - Strings on LeetCode_
+🤖 Mission uploaded: _Solve "Linked List Cycle" [Easy] - Linked Lists on LeetCode_
 <!-- CHALLENGE:END -->
 </p>
 <p align="center">
 <!-- CHALLENGE_LINK:START -->
-[Go solve it →](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+[Go solve it →](https://leetcode.com/problems/linked-list-cycle/)
 <!-- CHALLENGE_LINK:END -->
 
 </p>
